@@ -1,0 +1,14 @@
+User : Barış Demirezen
+Tcno : 12345678910
+Password : 0000
+Balance: 20000
+-----------------
+User : Ege Özfırıncı
+Tcno : 12345678911
+Password : 0000
+Balance: 100000
+------------------
+User : Canan Canbiçen
+Tcno : 12345678912
+Password : 0000
+Balance : 0
